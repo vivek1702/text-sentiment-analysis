@@ -55,5 +55,12 @@ Average Word Length
 Average Word Length is calculated by the formula:
 Sum of the total number of characters in each word/Total number of words
 
+### Power BI Visualization
+![visual1](https://github.com/vivek1702/Blackcoffer-article-s-text-sentiment-analysis/assets/44013832/902b263a-3839-4a48-8b14-97ea024068b8)
+![visual2](https://github.com/vivek1702/Blackcoffer-article-s-text-sentiment-analysis/assets/44013832/b34dd6fa-f6c0-4a72-8292-7caa19aa6f3d)
+![visual3](https://github.com/vivek1702/Blackcoffer-article-s-text-sentiment-analysis/assets/44013832/31ca2ee0-47fd-461e-a1e8-a3b6ce7f8e6e)
+![visual4](https://github.com/vivek1702/Blackcoffer-article-s-text-sentiment-analysis/assets/44013832/29ffe5dd-073b-432b-bb8f-c22b0eb7c06a)
 
-![powerbi visual report](https://github.com/vivek1702/Blackcoffer-article-s-text-sentiment-analysis/blob/Power bi Visualization/visual1.png?raw=true)
+
+
+
