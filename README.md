@@ -1,7 +1,6 @@
-# Blackcoffer-article-s-text-sentiment-analysis
+# text-sentiment-analysis
 
-The objective of this assignment is to extract textual data articles from the given URL and perform text analysis to compute variable. 
-
+The objective of this project is to extract textual data from website contains articles related to evolve of Artifical intelligence and their imapct, and performed sentiment analysis, Developed a solution to enhance content engagement by optimizing readability and emotional appeal.
 # Data Extraction
 
 Input.xlsx
