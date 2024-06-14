@@ -61,6 +61,8 @@ Average Word Length
 Average Word Length is calculated by the formula:
 Sum of the total number of characters in each word/Total number of words
 
+reference article of analysis:https://supercelestial.medium.com/text-analysis-f40386d8f40b
+
 
 
 
